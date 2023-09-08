@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Xiaoao123Go
+- 👋 Hi, I’m xiaochen
 - 👀 I’m interested in java
-- 🌱 I’m currently learning javaweb
+- 🌱 I’m currently learning springboot
 - 💞️ I’m looking to help
-- 📫 How to reach me cichun123123@126.com
+- 📫 How to reach me tao_lai@163.com
 
 <!---
 Xiaoao123Go/Xiaoao123Go is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
